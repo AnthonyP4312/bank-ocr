@@ -1,5 +1,6 @@
 (ns homework.core
-  (:require [clojure.string :as str]))
+  (:require [clojure.string :as str])
+  (:gen-class))
 
 (def str->numchar
   "Mapping of joined string to number character"
