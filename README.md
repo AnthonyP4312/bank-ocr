@@ -24,4 +24,4 @@ lein test
 lein uberjar
 ```
 
-[1]: http://codingdojo.org/kata/BankOCR/#suggested-test-cases
+[1]: http://codingdojo.org/kata/BankOCR
